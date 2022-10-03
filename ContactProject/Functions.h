@@ -164,6 +164,7 @@ void editTheContact(Contact& contact, Contacts& contacts, int id) {
 }
 
 Contacts* editContact() {
+	system("cls");
 	cin.ignore();
 	cin.clear();
 
